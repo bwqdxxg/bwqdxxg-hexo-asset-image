@@ -1,6 +1,6 @@
 {
   "name": "@bwqdxxg/hexo-asset-image",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Give asset image in hexo a absolutely path automatically",
   "main": "index.js",
   "scripts": {
